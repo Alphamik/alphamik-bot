@@ -43,7 +43,7 @@ function base64_encode(file) {
       }
 	if (["aya"].includes(command)) {
          message.delete();
-         if(message.author.id !== "427874353590304789","") {
+         if(message.author.id !== "301913733536415755") {
 					return message.author.send("Tu n'aura pas la liste :issou: ")
 				};
     //invit link 
